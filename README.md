@@ -1,6 +1,4 @@
-# Haftalık İlerleme Raporu
-
-## 1. Hafta: İnternet ve Web Temelleri
+# 1. Hafta Notları
 
 ### İnternet'in Temel Yapı Taşları
 - **IP Adresi (Internet Protocol Address):** İnternete bağlı her bir cihazı (bilgisayar, sunucu, telefon vb.) tanımlayan, noktalama işaretleriyle ayrılmış benzersiz sayısal etikettir.
@@ -15,10 +13,6 @@
 - **WWW (World Wide Web):** İnternet üzerinde barındırılan ve URL'ler aracılığıyla erişilebilen, birbirine bağlı web sayfaları ve içeriklerden oluşan küresel sistemdir.
 - **Hosting (Barındırma):** Bir web sitesinin tüm dosya ve verilerinin, internet üzerinden 7/24 erişilebilir olmasını sağlayan bir sunucuda saklanması hizmetidir.
 - **FTP (File Transfer Protocol):** Kendi bilgisayarınız ile bir sunucu arasında dosya yüklemek veya indirmek için kullanılan standart bir ağ protokolüdür.
-
----
-
-## 2. Hafta: Web Geliştirme Teknolojileri ve Araçları
 
 ### Web Sayfasının Yapısı ve Görünümü
 - **HTML (Hypertext Markup Language):** Bir web sayfasının iskeletini, yani başlıklar, paragraflar, resimler gibi temel içeriğini ve yapısını oluşturan standart işaretleme dilidir.
@@ -35,14 +29,14 @@
 - **WYSIWYG Editör:** Kod yazmadan, sürükle-bırak gibi görsel araçlarla web sayfası oluşturmayı sağlayan ve "Ne Görürsen Onu Alırsın" prensibiyle çalışan editörlerdir.
 
 ### En Yaygın Alan Adı Uzantıları
-- **.gov (government):** Devlet kurumları
-- **.edu (education):** Eğitim kurumları
-- **.k12 (kindergarten 12):** Temel eğitim ve ortaöğretim kurumları
-- **.org (organization):** Ticari olmayan kuruluşlar
-- **.com (company):** Ticari kuruluşlar
-- **.mil (military):** Askerî kurumlar
-- **.net (network):** Servis sunucular
-- **.ac (academic):** Akademik kuruluşlar
-- **.int (international):** Uluslararası kuruluşlar
-- **.info (information):** Bilgi içerikli web siteleri
-- **.biz (business):** Ticari kuruluşlar
+- **gov (government):** Devlet kurumları
+- **edu (education):** Eğitim kurumları
+- **k12 (kindergarten 12):** Temel eğitim ve ortaöğretim kurumları
+- **org (organization):** Ticari olmayan kuruluşlar
+- **com (company):** Ticari kuruluşlar
+- **mil (military):** Askerî kurumlar
+- **net (network):** Servis sunucular
+- **ac (academic):** Akademik kuruluşlar
+- **int (international):** Uluslararası kuruluşlar
+- **info (information):** Bilgi içerikli web siteleri
+- **biz (business):** Ticari kuruluşlar
