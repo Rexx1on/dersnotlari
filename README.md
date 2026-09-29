@@ -3,6 +3,7 @@
 ## İçindekiler
 - [1. Hafta: İnternet ve Web Temelleri](#1-hafta-internet-ve-web-temelleri)
 - [2. Hafta: Web Tasarım İlkeleri](#2-hafta-web-tasarim-ilkeleri)
+- [3. Hafta: HTML5 Özellikleri ve Etiketler](#3-hafta-html5-ozellikleri-ve-etiketler)
 
 ---
 
@@ -62,3 +63,29 @@ Bu ilkeler sınavlarda kesinlikle karşınıza çıkacaktır.
 5. **Güncellik:** Sitedeki haber, duyuru ve tarihlerin eski olmaması; modern teknolojiler (HTML5, CSS3) ile yapılmasıdır.
 6. **Uygunluk ve Güvenilirlik:** İletişim bilgilerinin olması, kırık (çalışmayan) link bulunmaması ve dil bilgisi hatalarının olmamasıdır.
 7. **Uyumluluk:** Sitenin hem farklı tarayıcılarda (Chrome, Safari vb.) hem de farklı cihazlarda (Mobil, Tablet, PC) bozulmadan çalışmasıdır (Responsive Tasarım / `<meta name="viewport"...>`).
+
+---
+
+## 3. Hafta: HTML5 Özellikleri ve Etiketler
+
+1. `<!DOCTYPE html>`: Tarayıcıya HTML5 standartlarını kullandığımızı belirten zorunlu koddur.
+2. `<meta name="viewport"...>`: Sitenin cep telefonlarında ve tabletlerde bozulmadan, ekrana duyarlı (Responsive) çalışmasını sağlayan etikettir.
+
+### 3. Başlık Hiyerarşisi (Kurallar)
+- Bir sayfada **sadece bir tane** `<h1>` (Ana Başlık) kullanılır.
+- Sıralama atlanamaz. (Örn: `<h2>`'den sonra `<h4>` yazılamaz, `<h3>` gelmelidir).
+- Başlık etiketleri yazıyı büyütmek için değil, sayfanın içindekiler tablosunu oluşturmak için kullanılır. Yazı büyütme işi CSS ile yapılır.
+
+### 4. Anlamsal (Semantic) Etiketler (Çok Önemli)
+- `<header>`: Başlık ve Logo alanı.
+- `<nav>`: Menü (Link) alanı.
+- `<main>`: Sitenin ana içeriği.
+- `<article>`: Bağımsız makale/haber bloğu.
+- `<section>`: İçerik içindeki alt bölümler.
+- `<aside>`: Ana içeriğin yanında duran yan bilgiler (Kenar çubuğu).
+- `<footer>`: En alt kısımdaki telif/iletişim alanı.
+
+### 5. Anlamsal Metin Biçimlendirme
+- `<strong>`: Kalın yapar ama arama motoruna "bu kelime çok önemli" der.
+- `<em>`: İtalik yapar ama "bu kelimeye vurgu yap" der.
+- `<!-- Yorum -->`: Tarayıcıda görünmeyen, sadece kodlayıcının gördüğü notlardır.
