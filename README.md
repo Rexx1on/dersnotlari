@@ -1,4 +1,12 @@
-# 1. Hafta Notları
+# Haftalık Ders Notları
+
+## İçindekiler
+- [1. Hafta: İnternet ve Web Temelleri](#1-hafta-internet-ve-web-temelleri)
+- [2. Hafta: Web Tasarım İlkeleri](#2-hafta-web-tasarim-ilkeleri)
+
+---
+
+## 1. Hafta: İnternet ve Web Temelleri
 
 ### İnternet'in Temel Yapı Taşları
 - **IP Adresi (Internet Protocol Address):** İnternete bağlı her bir cihazı (bilgisayar, sunucu, telefon vb.) tanımlayan, noktalama işaretleriyle ayrılmış benzersiz sayısal etikettir.
@@ -40,3 +48,17 @@
 - **int (international):** Uluslararası kuruluşlar
 - **info (information):** Bilgi içerikli web siteleri
 - **biz (business):** Ticari kuruluşlar
+
+---
+
+## 2. Hafta: Web Tasarım İlkeleri
+
+Bu ilkeler sınavlarda kesinlikle karşınıza çıkacaktır.
+
+1. **İçerik:** Sitenin kalbidir. Yazı, resim ve videoların özgün, doğru ve hedef kitleye uygun olmasıdır.
+2. **Tasarım (Layout):** Logo, menü ve içeriklerin ekranda nereye, hangi düzende yerleşeceğinin planlanmasıdır.
+3. **Biçimsellik:** Renk uyumu, kontrast (zıtlık) ve okunabilir yazı tiplerinin (Tipografi) kullanılmasıdır.
+4. **İşlevsellik ve Kullanılabilirlik:** Sitenin hızlı yüklenmesi, menülerin ve butonların doğru çalışması, kullanıcı dostu (kolay gezinilebilir) olmasıdır.
+5. **Güncellik:** Sitedeki haber, duyuru ve tarihlerin eski olmaması; modern teknolojiler (HTML5, CSS3) ile yapılmasıdır.
+6. **Uygunluk ve Güvenilirlik:** İletişim bilgilerinin olması, kırık (çalışmayan) link bulunmaması ve dil bilgisi hatalarının olmamasıdır.
+7. **Uyumluluk:** Sitenin hem farklı tarayıcılarda (Chrome, Safari vb.) hem de farklı cihazlarda (Mobil, Tablet, PC) bozulmadan çalışmasıdır (Responsive Tasarım / `<meta name="viewport"...>`).
